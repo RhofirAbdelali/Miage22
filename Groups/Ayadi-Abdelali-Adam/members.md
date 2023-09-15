@@ -4,5 +4,5 @@
 # Members
 
 - [Skander AYADI] - skander.ayadi.etu@univ-lille.fr
-- [Abdelali ...] - 
+- [Abdelali Rhofir] - Abdelali.rhofir@univ-lille.fr
 - [Adam ...] -
